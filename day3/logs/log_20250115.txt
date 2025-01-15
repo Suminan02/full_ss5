@@ -1,0 +1,672 @@
+2025-01-15 09:13:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 09:14:02
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"example_user1","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"John","lastname":"Doe","email":"john@example1.com","cid":"1234567890113","phone":"0912345678","address":"123 Example Street"}}
+-------------------------
+2025-01-15 09:16:59
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-15 09:48:59
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user19","password":"Suminan02@","c_password":"Suminan02@","name":"aa","lastname":"sa","email":"19@sd.cv","cid":"1111111111222","phone":"","address":""}}
+-------------------------
+2025-01-15 09:49:13
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 09:51:44
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 09:51:54
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 09:52:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 09:56:44
+IP :147.92.179.118::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 09:57:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 09:57:15
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 09:57:37
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 09:58:39
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 09:58:49
+IP :147.92.179.113::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 09:59:39
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:00:22
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 10:18:17
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 10:19:44
+IP :147.92.179.107::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 10:22:44
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845","password":"123789456@Rr","c_password":"123789456@Rr","email":"forsdford@fordford.com","name":"fordford","lastname":"fordford","cid":"1452658742103","phone":"1234567890","address":"'username' => 'example_user1',\n    'password' => '1254869754Qq!@',\n    'c_password' => '1254869754Qq!@',\n    'name' => 'John',\n    'lastname' => 'Doe',\n    'email' => 'john@example1.com',\n    'cid' => '1234567890113',\n    'phone' => '0912345678',\n    'address' => '123 Example Street'"}}
+-------------------------
+2025-01-15 10:28:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"ford132132","password":"123789456@Rr","c_password":"123789456@Rr","email":"forsdford2@fordford.com","name":"fordford","lastname":"fordford","cid":"7548631254120","phone":"1234567890","address":"ford132132"}}
+-------------------------
+2025-01-15 10:33:08
+IP :58.11.157.194::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"tigbobobae","password":"P@ssw0rd","c_password":"P@ssw0rd","name":"sadsadasd","lastname":"fasfsafsafas","email":"scsd@dsad.cc","cid":"3333333333333","address":"sadsadasd"}}
+-------------------------
+2025-01-15 10:33:21
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:33:41
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:33:57
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:34:06
+IP :58.11.157.194::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 10:34:14
+IP :58.11.157.194::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 10:34:20
+IP :58.11.157.194::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"tigbobobae1","password":"P@ssw0rd","c_password":"P@ssw0rd","name":"sadsadasd","lastname":"fasfsafsafas","email":"scssd@dsad.ccs","cid":"3333333333334","phone":"0999999999","address":"sadsadasd"}}
+-------------------------
+2025-01-15 10:35:13
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:37:51
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:37:59
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:38:08
+IP :58.11.157.194::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 10:38:13
+IP :58.11.157.194::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 10:38:18
+IP :58.11.157.194::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"tigbobobae2","password":"P@ssw0rd","c_password":"P@ssw0rd","name":"sadsadasd","lastname":"fasfsafsafas","email":"scss1d@dsad.ccs","cid":"3333333333335","phone":"0999999999","address":"sadsadasd"}}
+-------------------------
+2025-01-15 10:40:12
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:41:27
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:41:38
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:41:44
+IP :58.11.157.194::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 10:41:51
+IP :58.11.157.194::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 10:41:56
+IP :58.11.157.194::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"tigbobobae3","password":"P@ssw0rd","c_password":"P@ssw0rd","name":"sadsadasd","lastname":"fasfsafsafas","email":"scsss1d@dsad.ccs","cid":"3333333333336","phone":"0999999999","address":"sadsadasd"}}
+-------------------------
+2025-01-15 10:47:04
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845123123","password":"123789456@Rr","c_password":"123789456@Rr","email":"forsdfor213d@fordford.com","name":"fordford","lastname":"fordford","cid":"1231231231231","phone":"1234567890","address":"123213123123213"}}
+-------------------------
+2025-01-15 10:54:38
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 10:57:24
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username01","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"ff","lastname":"gg","email":"hun@htmk.lod","cid":"8564798546214","phone":"","address":""}}
+-------------------------
+2025-01-15 10:58:42
+IP :58.11.157.194::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:02:30
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:03:12
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:03:27
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username02","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"ff","lastname":"gg","email":"hhun@htmk.lod","cid":"8564798546241","phone":"","address":""}}
+-------------------------
+2025-01-15 11:24:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"005","msg":"empty lastname"}
+-------------------------
+2025-01-15 11:25:15
+IP :180.183.250.244::1
+DATA : {"ret_code":"005","msg":"empty lastname"}
+-------------------------
+2025-01-15 11:26:15
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username001","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hyun@oun.yob","cid":"7456541250145","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 11:31:14
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:31:35
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:32:04
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:32:17
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:33:19
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:33:34
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:34:14
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:36:28
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:36:43
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:36:55
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:37:34
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:39:00
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:43:45
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:43:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:43:50
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:44:32
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:44:59
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:45:46
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:45:54
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:46:08
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username00101","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hyufn@oun.yob","cid":"7456541250541","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 11:46:21
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:46:55
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 11:47:01
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:47:06
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 11:47:11
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username0010","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hyuhfn@oun.yob","cid":"7456541250542","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 11:47:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:49:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:51:20
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:51:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:55:15
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:56:43
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 11:56:58
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 13:22:42
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 13:22:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 13:22:52
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username0011","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hyuhfgn@oun.yob","cid":"7456541251542","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 13:27:17
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:27:52
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:27:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:27:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:28:55
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845hh","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"forsdfordh2@fordford.com","cid":"1232321321123","phone":"1234567890","address":"asdasdasd"}}
+-------------------------
+2025-01-15 13:31:13
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845hh1","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"forsdfordh12@fordford.com","cid":"1232323321123","phone":"1234567890","address":"asdasdasd"}}
+-------------------------
+2025-01-15 13:31:30
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:31:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:32:12
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:32:14
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:32:35
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:33:00
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:33:49
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:34:12
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:34:31
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:35:10
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:35:10
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:35:31
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:41:30
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:41:52
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 13:41:57
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 13:42:03
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username0021","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hyuhffgn@oun.yob","cid":"7456541251598","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 13:48:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"Suminannnnnnff","password":"Suminan02@","c_password":"Suminan02@","name":"asad","lastname":"fsas","email":"dd02@g.cb","cid":"7777888899563","phone":"","address":""}}
+-------------------------
+2025-01-15 13:49:41
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 13:49:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 13:49:55
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 13:50:08
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 13:50:27
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845hh1123","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"forsdfordh12123@fordford.com","cid":"1111111111112","phone":"1234567890","address":"asdasdasd"}}
+-------------------------
+2025-01-15 13:59:08
+IP :180.183.250.244::1
+DATA : {"ret":"201","msg":"Invalid pattern username"}
+-------------------------
+2025-01-15 13:59:18
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"fordzaaaa","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordzaaaaaaaaaaaa","lastname":"fordzaaaaaaaaaaaa","email":"fordzaaaaaaaaaaaa@fordford.com","cid":"1011111111112","phone":"1234567890","address":"fordzaaaaaaaaaaaa"}}
+-------------------------
+2025-01-15 14:00:07
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:00:25
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:01:02
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:01:06
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 14:01:24
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 14:01:31
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"fordzaaaaa","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"fordzaaaa@fordford.com","cid":"1511111111112","phone":"1234567890","address":"fordzaaaa"}}
+-------------------------
+2025-01-15 14:03:43
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:03:48
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"fordzaaaa1","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"fordzaaaafordzaaaa@fordford.com","cid":"1011156111112","phone":"1234567890","address":"fordzaaaa HUNfordzaaaa HUNfordzaaaa HUN"}}
+-------------------------
+2025-01-15 14:19:44
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:19:50
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"fordzazaza","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordzazaza","lastname":"fordzazaza","email":"fordzazaza@fordzazaza.sa","cid":"1231232341235","phone":"1234567890","address":"fordzazaza"}}
+-------------------------
+2025-01-15 14:26:38
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"userame1021","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hun@jifm.lof","cid":"7456541241559","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 14:26:53
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 14:27:10
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"userame1121","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hun@jifmf.lof","cid":"7456541240259","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 14:35:31
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop78451212","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"uiop78451212@fordford.com","cid":"1231333341235","phone":"1234567890","address":"asdasdasdasd"}}
+-------------------------
+2025-01-15 14:42:04
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"userame1122","password":"1254869754Qq!@","c_password":"1254869754Qq!@","name":"fg","lastname":"gffgg","email":"hun@jiffmf.lof","cid":"7456541240258","phonenumber":"123545","address":"fdfdfgg"}}
+-------------------------
+2025-01-15 15:03:29
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 16:00:48
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"zzzxxx","password":"123789456@Rr","c_password":"123789456@Rr","name":"forsdfoasdardasqq","lastname":"forsdfoasdardasqq","email":"forsdfoasdardasqq@forsdfoasdardasqq.qw","cid":"2323123231231","phone":"1234567890","address":"forsdfoasdardasqq"}}
+-------------------------
+2025-01-15 16:02:12
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 16:02:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845vz","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"uiop7845vz@uiop7845vz.as","cid":"2323123231114","phone":"1234567890","address":"uiop7845vz"}}
+-------------------------
+2025-01-15 16:04:26
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845vv","password":"123789456@Rr","c_password":"123789456@Rr","name":"fordford","lastname":"fordford","email":"uiop7845vv@uiop7845vz.as","cid":"2323123230004","phone":"1234567890","address":"uiop7845vz00"}}
+-------------------------
+2025-01-15 16:04:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:16:03
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 16:36:38
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"dfdfdsddd","password":"Password01!","c_password":"Password01!","name":"dfdf","lastname":"fd","email":"sddfsd@go.com","cid":"9999965595959","phonenumber":"4454","address":""}}
+-------------------------
+2025-01-15 16:36:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:37:16
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:38:07
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:38:11
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:38:22
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 16:38:32
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"dfdfdsdd01","password":"Password01!","c_password":"Password01!","name":"dfdf","lastname":"fd","email":"sddfsfdd@go.com","cid":"9999945595959","phonenumber":"4454","address":""}}
+-------------------------
+2025-01-15 16:43:20
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:43:30
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"dfdfdsddf01","password":"Password01!","c_password":"Password01!","name":"dfdf","lastname":"fd","email":"sddfsffdd@go.com","cid":"9999045595959","phonenumber":"4454","address":""}}
+-------------------------
+2025-01-15 16:52:44
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-15 16:53:53
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"uiop7845ggg","password":"123789456@Rr","c_password":"123789456@Rr","name":"forsdfoasdard","lastname":"forsdfoasdard","email":"uiop7845ggg@uiop7845gg.df","cid":"4444444666626","phone":"1234567890","address":""}}
+-------------------------
+2025-01-15 16:56:01
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 16:56:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 16:56:17
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username010","password":"Password01!","c_password":"Password01!","name":"ds","lastname":"dd","email":"hyuhhfn@oun.yob","cid":"9659874595632","phonenumber":"","address":""}}
+-------------------------
+2025-01-15 16:58:45
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username8008","password":"Password01!","c_password":"Password01!","name":"sds","lastname":"dd","email":"hyuhdfn@oudn.yob","cid":"8795454120123","phonenumber":"","address":""}}
+-------------------------
+2025-01-15 17:01:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"Suminanssssddd","password":"Suminan02@","c_password":"Suminan02@","email":"sgh@f.cv","name":"sad","lastname":"sad","cid":"6666666663333","phone":"111","address":"ddfg"}}
+-------------------------
+2025-01-15 17:01:15
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 17:01:52
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 17:02:00
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username00898","password":"Password01!","c_password":"Password01!","name":"ds","lastname":"dd","email":"hyssuhdfn@osudn.yob","cid":"2032145965231","phonenumber":"","address":""}}
+-------------------------
+2025-01-15 17:02:17
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 17:02:32
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username00890","password":"Password01!","c_password":"Password01!","name":"ds","lastname":"dd","email":"hyssuhdfn@osudn.yb","cid":"2032145965232","phonenumber":"","address":""}}
+-------------------------
+2025-01-15 17:03:14
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 17:03:16
+IP :180.183.250.244::1
+DATA : {"ret_code":"5000","msg":"unsuccess email same with other user"}
+-------------------------
+2025-01-15 17:03:42
+IP :180.183.250.244::1
+DATA : {"ret_code":"6000","msg":"unsuccess citizen ID same with other user"}
+-------------------------
+2025-01-15 17:03:56
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"usernamefffffff","password":"Suminan02@","c_password":"Suminan02@","email":"aaaasgh@f.cv","name":"sad","lastname":"sad","cid":"5588775599632","phone":"111","address":"ddfg"}}
+-------------------------
+2025-01-15 17:06:02
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"username00899","password":"Password01!","c_password":"Password01!","name":"ds","lastname":"dd","email":"hyssuhdfn@udn.yb","cid":"2032145965239","phonenumber":"","address":""}}
+-------------------------
+2025-01-15 17:06:02
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 17:07:25
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"usernamedddddd","password":"Suminan02@","c_password":"Suminan02@","email":"aaaasdh@f.cv","name":"sad","lastname":"sad","cid":"5588775599611","phone":"111","address":"ddfg"}}
+-------------------------
+2025-01-15 17:08:24
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"Sunnnnnnnnss","password":"Suminan02@","c_password":"Suminan02@","email":"sss@gghj.cv","name":"aaaaaaa","lastname":"ssss","cid":"9999999988521","phone":"11111","address":"aaaaaa"}}
+-------------------------
+2025-01-15 17:19:24
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------
+2025-01-15 17:27:05
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"Suminansssssss","password":"Suminan02@","c_password":"Suminan02@","email":"aaff@ghj.mk","name":"ssdf","lastname":"sdsd","cid":"5554447789699","phone":"","address":""}}
+-------------------------
+2025-01-15 17:27:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"4000","msg":"unsuccess username same with other user"}
+-------------------------

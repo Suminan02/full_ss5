@@ -154,8 +154,7 @@ if(isset($_POST['username'])&&$_POST['username'] !=''){
 
 
 $password =md5($password);
-$sql="INSERT INTO user_info (username, password, citizen_id, email, name, surname, address, phone) 	
-VALUES ('".$username."', '".$password."', '".$cid."', '".$email."', '".$name."', '".$lastname."', '".$address."', '".$phone."');";
+
 
 
 
@@ -186,6 +185,8 @@ if(count($array_result_cid)>0){
     exit;
 }
 
+$sql="INSERT INTO user_info (username, password, citizen_id, email, name, surname, address, phone) 	
+VALUES ('".$username."', '".$password."', '".$cid."', '".$email."', '".$name."', '".$lastname."', '".$address."', '".$phone."');";
 $result_insert=$web->execute($sql);
 if($result_insert){
   $response = array('ret_code'=>'101','msg'=>"success","data"=>$_POST);
@@ -198,9 +199,6 @@ else{
     write_log(json_encode($response));
     echo json_encode($response);
 }
-
-
-
 
 $web->closeDB();
 
