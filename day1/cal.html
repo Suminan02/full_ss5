@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #wrapper{
+            width: 80%;
+            border: 1px solid #f00303;
+            margin: 0 auto;
+            min-height: 500px; 
+        }
+        #result{
+            width: 120px;
+            margin: 5px;
+            border: 1px solid blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        input number : <input type="number" id="numb" name="numb" />
+        <button type="button" onclick="cals();">Submit</button>
+        <div id="result"> your result</div>
+    </div>
+    <script>
+        function cals(){
+            var numb = document.getElementById('numb').value;
+            var result ="F";
+            if(numb==""){
+                alert("please put information");
+                document.getElementById('numb').focus();
+                return false;
+            }
+           if(numb>=80){
+            result ="A"
+           }else if(numb >=70){
+            result ="B"
+           }else if(numb >=60){
+            result = "c"
+           }else if(numb >=50){
+            result ="D"
+           }else{
+            result="F"
+           }
+           document.getElementById('result').innerHTML=result;
+        }
+    </script>
+</body>
+</html>

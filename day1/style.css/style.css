@@ -1,0 +1,19 @@
+.css_border{
+    border: 1px ;
+    padding: 10px; 
+    text-align: center; 
+    color: #f07400;
+    border-radius: 10px; 
+    float: left;
+    background-color: rgb(122, 8, 133);
+    margin: 10px;
+    width: 100px;
+}
+.txt_color{
+    color: blue;
+}
+.css_border:hover{
+    cursor: pointer;
+    background-color: #c815ce;
+    color: purple;
+}

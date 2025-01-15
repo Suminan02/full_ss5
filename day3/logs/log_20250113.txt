@@ -1,0 +1,238 @@
+2025-01-13 08:55:20
+IP :::1::1
+DATA : {"ret_code":"20000","msg":"unsuccessDuplicate entry 'user01' for key 'username'","data_post":{"username":"user01","password":"Suminan02@","c_password":"Suminan02@","name":"asd","lastname":"sad","email":"asd@d.cv","cid":"5555555555555","phone":"","address":""}}
+-------------------------
+2025-01-13 09:55:41
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user05","password":"Suminan02@","c_password":"Suminan02@","name":"jfg","lastname":"fet","email":"jht@df.cb","cid":"9999988878987","phone":"","address":""}}
+-------------------------
+2025-01-13 10:14:51
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 10:15:44
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 10:15:47
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 10:16:23
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 10:16:33
+IP :180.183.250.244::1
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 10:33:42
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 10:35:24
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 10:35:52
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 10:38:26
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 10:40:09
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 13:03:36
+DATA : {"ret":"202","msg":"Invalid pattern password"}
+-------------------------
+2025-01-13 13:04:53
+DATA : {"ret":"202","msg":"Invalid pattern password"}
+-------------------------
+2025-01-13 13:04:57
+DATA : {"ret":"202","msg":"Invalid pattern password"}
+-------------------------
+2025-01-13 13:06:34
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 13:08:26
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 13:08:27
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 13:11:28
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user10","password":"Suminan02@","c_password":"Suminan02@","name":"jfg","lastname":"fet","email":"jhft@df.cb","cid":"9999988878966","phone":"","address":""}}
+-------------------------
+2025-01-13 13:13:08
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user11","password":"Suminan02@","c_password":"Suminan02@","name":"jfg","lastname":"fet","email":"jhftj@df.cb","cid":"9999988878666","phone":"","address":""}}
+-------------------------
+2025-01-13 13:17:18
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user12","password":"Suminan02@","c_password":"Suminan02@","name":"jfg","lastname":"fet","email":"jhftgj@df.cb","cid":"7754123985612","phone":"","address":""}}
+-------------------------
+2025-01-13 13:36:31
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 13:36:45
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 13:36:52
+DATA : {"ret_code":"222","msg":"user password incorret"}
+-------------------------
+2025-01-13 13:40:36
+IP :180.183.250.244::1
+DATA : {"ret_code":"003","msg":"empty input confirm password"}
+-------------------------
+2025-01-13 13:41:42
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 13:41:54
+DATA : {"ret_code":"111","msg":"user account not found"}
+-------------------------
+2025-01-13 13:43:04
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 13:43:15
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 13:48:20
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 13:50:32
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 13:50:42
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 14:00:06
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user12","password":"Suminan02@","c_password":"Suminan02@","name":"jfg","lastname":"fet","email":"jhftgj@df.cb","cid":"7754123985612","phone":"","address":""}}
+-------------------------
+2025-01-13 14:00:40
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user01","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"jj@df.cb","cid":"7754123985601","phone":"","address":""}}
+-------------------------
+2025-01-13 14:00:54
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user02","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j02@df.cb","cid":"7754123985602","phone":"","address":""}}
+-------------------------
+2025-01-13 14:02:58
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user03","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j03@df.cb","cid":"7754123985603","phone":"","address":""}}
+-------------------------
+2025-01-13 14:03:08
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user04","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j04@df.cb","cid":"7754123985604","phone":"","address":""}}
+-------------------------
+2025-01-13 14:03:16
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user05","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j05@df.cb","cid":"7754123985606","phone":"","address":""}}
+-------------------------
+2025-01-13 14:03:28
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user07","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j07@df.cb","cid":"7754123985607","phone":"","address":""}}
+-------------------------
+2025-01-13 14:03:39
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user08","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j08@df.cb","cid":"7754123985608","phone":"","address":""}}
+-------------------------
+2025-01-13 14:03:48
+IP :180.183.250.244::1
+DATA : {"ret_code":"101","msg":"success","data":{"username":"user09","password":"Suminan02@","c_password":"Suminan02@","name":"jfgf","lastname":"fetf","email":"j09@df.cb","cid":"7754123985609","phone":"","address":""}}
+-------------------------
+2025-01-13 14:05:10
+DATA : {"ret_code":"110","msg":"user not active"}
+-------------------------
+2025-01-13 14:06:35
+DATA : {"ret_code":"110","msg":"user not active"}
+-------------------------
+2025-01-13 14:06:36
+DATA : {"ret_code":"110","msg":"user not active"}
+-------------------------
+2025-01-13 14:06:43
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 14:08:06
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 14:08:16
+DATA : {"ret_code":"110","msg":"user not active"}
+-------------------------
+2025-01-13 14:12:46
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 14:13:09
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 15:08:55
+DATA : {"ret_code":"001","msg":"empty input username"}
+-------------------------
+2025-01-13 15:09:47
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:10:01
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:14:54
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:15:03
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 15:15:41
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 15:17:50
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:19:19
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:19:30
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 15:19:35
+DATA : {"ret_code":"111","msg":"user account not found or password incorrect"}
+-------------------------
+2025-01-13 16:34:08
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:52:43
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:53:00
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:53:01
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:53:08
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:54:19
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:59:05
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 16:59:49
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 17:00:29
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 17:01:28
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 17:01:47
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
+2025-01-13 17:38:09
+DATA : {"ret_code":"101","msg":"login success"}
+-------------------------
