@@ -3,7 +3,7 @@
     
     if($chatname=="gemini"){
 
-    $GEMINI_API_KEY="AIzaSyDMMpAJ7GOIowY24ugbA6ioaW_0LEo0EI4";
+    $GEMINI_API_KEY="";
     $url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=".$GEMINI_API_KEY;
 
     $arrayHeader = array();

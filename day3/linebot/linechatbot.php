@@ -27,7 +27,7 @@
 
 	if($chatname=="gemini"){
 
-		// $GEMINI_API_KEY="AIzaSyDMMpAJ7GOIowY24ugbA6ioaW_0LEo0EI4";
+		// $GEMINI_API_KEY="";
 		// $url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=".$GEMINI_API_KEY;
 	
 		$arrayHeader = array();
@@ -42,7 +42,7 @@
 	
 		}
 		elseif($chatname=="gpt"){
-			// $gpt_api_key='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';
+			// $gpt_api_key='';
 			// $url="https://api.openai.com/v1/chat/completions";
 	
 			$arrayHeader = array();
@@ -71,7 +71,7 @@
 	$encodeJson = json_encode($messages);
 
 	$LINEDatas['url'] = "https://api.line.me/v2/bot/message/reply";
-  	$LINEDatas['token'] = "fZ7rZ4DHkHZt0izZiJxuWufIj9+QWsG2fxF3KbIqIwmj0CxbjfFmwTNHw1ahbhMPbfarR09qpRIJToeEmx/ZrrAl95oRgSyszwnTeGbZ7XuI9OttlU3UhkDPGjFNm5y83c9IGAUFIxY0U4BXkwhTsgdB04t89/1O/w1cDnyilFU=";
+  	$LINEDatas['token'] = "";
 
   	$results = sentMessage($encodeJson,$LINEDatas);
 
