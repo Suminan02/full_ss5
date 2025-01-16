@@ -1,8 +1,5 @@
 <?php
 
-    
-    
-
         $username="";
         $password="";
         $c_password="";
