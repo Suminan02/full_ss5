@@ -27,8 +27,8 @@
 
 	if($chatname=="gemini"){
 
-		$GEMINI_API_KEY="AIzaSyDMMpAJ7GOIowY24ugbA6ioaW_0LEo0EI4";
-		$url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=".$GEMINI_API_KEY;
+		// $GEMINI_API_KEY="AIzaSyDMMpAJ7GOIowY24ugbA6ioaW_0LEo0EI4";
+		// $url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=".$GEMINI_API_KEY;
 	
 		$arrayHeader = array();
 		$arrayHeader[] = "Content-Type: application/json";
@@ -42,8 +42,8 @@
 	
 		}
 		elseif($chatname=="gpt"){
-			$gpt_api_key='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';
-			$url="https://api.openai.com/v1/chat/completions";
+			// $gpt_api_key='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';
+			// $url="https://api.openai.com/v1/chat/completions";
 	
 			$arrayHeader = array();
 			$arrayHeader[] = "Content-Type: application/json"; //วิธีการเพิ่มอะเรใน $arrayHeader

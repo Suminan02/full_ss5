@@ -20,7 +20,7 @@
     }
 
     elseif($chatname=="gpt"){
-        $gpt_api_key='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';
+        // $gpt_api_key='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';
         $url="https://api.openai.com/v1/chat/completions";
 
         $arrayHeader = array();
